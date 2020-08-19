@@ -705,7 +705,7 @@ body>header #headerLogo>a>img{
 #gnavPanel>ul>li>a:after{top:-40px;width:5px;height:5px;border-radius:50%}
 #gnavPanel>ul>li>a:hover:before{height:35px;opacity:1}
 #gnavPanel>ul>li>a:hover:after{top:-5px;opacity:1}
-#gnavBtn{position:absolute;z-index:9998;top:0;right:0;display:none;width:60px;height:60px;cursor:pointer}
+#gnavBtn{position:absolute;z-index:9998;top:0;right:0;display:none;width:60px;height:25px;cursor:pointer}
 #gnavBtn>span{top:0;bottom:0;width:20px;height:2px}
 #gnavBtn>span:after,#gnavBtn>span:before{width:100%;height:100%;content:''}
 #gnavBtn>span:before{bottom:5px}
