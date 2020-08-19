@@ -137,7 +137,7 @@ body>footer #footerTop .nav>li:first-child:after{right:100%;display:block}
 body>footer #footerBottom .nav{display:table;max-width:280px;margin:0 auto 30px}
 body>footer #footerBottom .nav>li{display:table-cell;float:none}
 body>footer #copyright,body>footer #copyright>a{font-size:10px;text-align:center}
-#topPage #atf{min-height:0}
+/* #topPage #atf{min-height:0} */
 #topPage #atf .title{
     font-size:10vw;
     top:0px;
